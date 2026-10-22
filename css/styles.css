@@ -23,3 +23,12 @@ footer {
     font-family: "Times New Roman", serif;
     color: #322165;
 }
+
+body {
+    background-color: #3a5239;
+}
+
+header {
+    background-color: #11cf80;
+    color: rgb(187, 84, 25);
+}
